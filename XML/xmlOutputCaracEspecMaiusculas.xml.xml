@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><ID>777</ID> <Nome>SYDBANK PARK</Nome> <Capacidade>10000</Capacidade></Row>
+<Row><ID>646</ID> <Nome>NORD ENERGI ARENA</Nome> <Capacidade>10000</Capacidade></Row>
+<Row><ID>801</ID> <Nome>VIBORG STADION</Nome> <Capacidade>10000</Capacidade></Row>
+<Row><ID>1479</ID> <Nome>KARL-HEITZ-STADION</Nome> <Capacidade>10000</Capacidade></Row>
+<Row><ID>577</ID> <Nome>HARBOE ARENA</Nome> <Capacidade>10000</Capacidade></Row>
+<Row><ID>588</ID> <Nome>JYSK PARK</Nome> <Capacidade>10000</Capacidade></Row>
+<Row><ID>614</ID> <Nome>LYNGBY STADION</Nome> <Capacidade>10000</Capacidade></Row>
+<Row><ID>595</ID> <Nome>KING POWER AT DEN DREEF STADION</Nome> <Capacidade>10020</Capacidade></Row>
+<Row><ID>786</ID> <Nome>TRUD</Nome> <Capacidade>10028</Capacidade></Row>
+<Row><ID>557</ID> <Nome>GAZOVIK</Nome> <Capacidade>10046</Capacidade></Row>
+<Row><ID>533</ID> <Nome>ESTÁDIO JOSÉ ARCANJO</Nome> <Capacidade>10080</Capacidade></Row>
+<Row><ID>1060</ID> <Nome>WESERSTADION</Nome> <Capacidade>10093</Capacidade></Row>
+<Row><ID>780</ID> <Nome>THE ENERGY CHECK STADIUM AT FIRHILL</Nome> <Capacidade>10102</Capacidade></Row>
+<Row><ID>597</ID> <Nome>KIRBIYIK HOLDING STADYUMU</Nome> <Capacidade>10128</Capacidade></Row>
+<Row><ID>593</ID> <Nome>KENILWORTH ROAD</Nome> <Capacidade>10226</Capacidade></Row>
+<Row><ID>456</ID> <Nome>CAMBUURSTADION</Nome> <Capacidade>10250</Capacidade></Row>
+<Row><ID>693</ID> <Nome>RIGHT TO DREAM PARK</Nome> <Capacidade>10300</Capacidade></Row>
+<Row><ID>466</ID> <Nome>CEPHEUS PARK RANDERS</Nome> <Capacidade>10300</Capacidade></Row>
+<Row><ID>468</ID> <Nome>CHERKASY-ARENA</Nome> <Capacidade>10321</Capacidade></Row>
+<Row><ID>647</ID> <Nome>NORDSTERN ARENA HORSENS</Nome> <Capacidade>10400</Capacidade></Row>
+<Row><ID>799</ID> <Nome>VEJLE STADION</Nome> <Capacidade>10418</Capacidade></Row>
+<Row><ID>736</ID> <Nome>STADE FRANÇOIS-COTY</Nome> <Capacidade>10446</Capacidade></Row>
+<Row><ID>527</ID> <Nome>ESTÁDIO DO MARÍTIMO</Nome> <Capacidade>10600</Capacidade></Row>
+<Row><ID>441</ID> <Nome>AVANGARD</Nome> <Capacidade>10640</Capacidade></Row>
+<Row><ID>626</ID> <Nome>MCDIARMID PARK</Nome> <Capacidade>10696</Capacidade></Row>
+<Row><ID>606</ID> <Nome>LE CANONNIER</Nome> <Capacidade>10830</Capacidade></Row>
+<Row><ID>1005</ID> <Nome>NEFTCHI ARENA</Nome> <Capacidade>11000</Capacidade></Row>
+<Row><ID>498</ID> <Nome>EDMOND MACHTENSSTADION</Nome> <Capacidade>11000</Capacidade></Row>
+<Row><ID>415</ID> <Nome>19 EYLÜL STADYUM</Nome> <Capacidade>11024</Capacidade></Row>
+<Row><ID>711</ID> <Nome>SPARTA-STADION - HET KASTEEL</Nome> <Capacidade>11026</Capacidade></Row>
+<Row><ID>677</ID> <Nome>PIER LUIGI PENZO</Nome> <Capacidade>11150</Capacidade></Row>
+<Row><ID>1385</ID> <Nome>STADION IM. ZDZISLAWA KRZYSZKOWIAKA</Nome> <Capacidade>11200</Capacidade></Row>
+<Row><ID>804</ID> <Nome>VITALITY STADIUM</Nome> <Capacidade>11329</Capacidade></Row>
+<Row><ID>627</ID> <Nome>MCH ARENA</Nome> <Capacidade>11535</Capacidade></Row>
+<Row><ID>424</ID> <Nome>ALBERTO PICCO</Nome> <Capacidade>11676</Capacidade></Row>
+<Row><ID>754</ID> <Nome>STADIO NEAS SMYRNIS</Nome> <Capacidade>11700</Capacidade></Row>
+<Row><ID>594</ID> <Nome>KILMAC STADIUM AT DENS PARK</Nome> <Capacidade>11850</Capacidade></Row>
+<Row><ID>709</ID> <Nome>SLAVUTYCH ARENA</Nome> <Capacidade>11883</Capacidade></Row>
+<Row><ID>1148</ID> <Nome>STADIUMI I QYTETIT TË SUHAREKËS</Nome> <Capacidade>12000</Capacidade></Row>
+<Row><ID>682</ID> <Nome>PRO VENTILATION ARENA</Nome> <Capacidade>12000</Capacidade></Row>
+<Row><ID>480</ID> <Nome>DAKNAMSTADION</Nome> <Capacidade>12000</Capacidade></Row>
+<Row><ID>517</ID> <Nome>ESTÁDIO CIDADE DE BARCELOS</Nome> <Capacidade>12046</Capacidade></Row>
+<Row><ID>768</ID> <Nome>STADION IM. YURIYA GAGARINA</Nome> <Capacidade>12060</Capacidade></Row>
+<Row><ID>762</ID> <Nome>STADION AVANGARD</Nome> <Capacidade>12080</Capacidade></Row>
+<Row><ID>508</ID> <Nome>ERVE ASITO</Nome> <Capacidade>12080</Capacidade></Row>
+<Row><ID>712</ID> <Nome>SPOR TOTO AKHISAR STADYUMU</Nome> <Capacidade>12139</Capacidade></Row>
+<Row><ID>504</ID> <Nome>ELINDUS ARENA</Nome> <Capacidade>12250</Capacidade></Row>
+<Row><ID>494</ID> <Nome>DR. NECMETTIN SEYHOGLU</Nome> <Capacidade>12400</Capacidade></Row>
+<Row><ID>455</ID> <Nome>BUTARQUE</Nome> <Capacidade>12454</Capacidade></Row>
+<Row><ID>553</ID> <Nome>FORTUNA SITTARD STADION</Nome> <Capacidade>12500</Capacidade></Row>
+<Row><ID>523</ID> <Nome>ESTÁDIO DE SÃO MIGUEL</Nome> <Capacidade>12500</Capacidade></Row>
+<Row><ID>571</ID> <Nome>GOFFERTSTADION</Nome> <Capacidade>12500</Capacidade></Row>
+<Row><ID>759</ID> <Nome>STADION "DE VIJVERBERG"</Nome> <Capacidade>12600</Capacidade></Row>
+<Row><ID>722</ID> <Nome>STADE CHARLES TONDREAU</Nome> <Capacidade>12662</Capacidade></Row>
+<Row><ID>767</ID> <Nome>STADION IM. VOLODYMYRA BOYKO</Nome> <Capacidade>12680</Capacidade></Row>
+<Row><ID>660</ID> <Nome>OLYMPISCH STADION</Nome> <Capacidade>12771</Capacidade></Row>
+<Row><ID>723</ID> <Nome>STADE CRÉDIT AGRICOLE LA LICORNE</Nome> <Capacidade>12999</Capacidade></Row>
+<Row><ID>737</ID> <Nome>STADE GABRIEL-MONTPIED</Nome> <Capacidade>13000</Capacidade></Row>
+<Row><ID>747</ID> <Nome>STADIO ALKAZAR</Nome> <Capacidade>13108</Capacidade></Row>
+<Row><ID>641</ID> <Nome>MONTILIVI</Nome> <Capacidade>13286</Capacidade></Row>
+<Row><ID>555</ID> <Nome>FREETHIELSTADION</Nome> <Capacidade>13290</Capacidade></Row>
+<Row><ID>2360</ID> <Nome>ZENTRALSTADION VOLGOGRAD -2014</Nome> <Capacidade>13500</Capacidade></Row>
+<Row><ID>551</ID> <Nome>FIR PARK</Nome> <Capacidade>13750</Capacidade></Row>
+<Row><ID>416</ID> <Nome>AALBORG PORTLAND PARK</Nome> <Capacidade>13800</Capacidade></Row>
+<Row><ID>688</ID> <Nome>RECEP TAYYIP ERDOGAN STADYUMU</Nome> <Capacidade>13856</Capacidade></Row>
+<Row><ID>615</ID> <Nome>MAC³PARK STADION</Nome> <Capacidade>14000</Capacidade></Row>
+<Row><ID>2210</ID> <Nome>STADION GOSIR</Nome> <Capacidade>14037</Capacidade></Row>
+<Row><ID>778</ID> <Nome>TANNADICE PARK</Nome> <Capacidade>14223</Capacidade></Row>
+<Row><ID>1392</ID> <Nome>STADIONUL MUNICIPAL</Nome> <Capacidade>14438</Capacidade></Row>
+<Row><ID>580</ID> <Nome>HERMAN VANDERPOORTENSTADION</Nome> <Capacidade>14538</Capacidade></Row>
+<Row><ID>479</ID> <Nome>DAIO WASABI STAYEN STADIUM</Nome> <Capacidade>14600</Capacidade></Row>
+<Row><ID>822</ID> <Nome>ZIRKA</Nome> <Capacidade>14628</Capacidade></Row>
+<Row><ID>599</ID> <Nome>KONING WILLEM II STADION</Nome> <Capacidade>14700</Capacidade></Row>
+<Row><ID>1764</ID> <Nome>GHENCEA 1974-2018</Nome> <Capacidade>14841</Capacidade></Row>
+<Row><ID>582</ID> <Nome>HOME DELUXE ARENA</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>432</ID> <Nome>APOSTOLOS NIKOLAIDIS</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>733</ID> <Nome>STADE DU PAYS DE CHARLEROI</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>2559</ID> <Nome>CEAHLAUL</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>2353</ID> <Nome>ILIE OANA 2011</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>449</ID> <Nome>BINGOAL STADION</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>429</ID> <Nome>ALSANCAK MUSTAFA DENIZLI STADI</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>820</ID> <Nome>ZENTRALSTADION KRASNOYARSK</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>805</ID> <Nome>VOITH-ARENA</Nome> <Capacidade>15000</Capacidade></Row>
+<Row><ID>457</ID> <Nome>CAMPO DE FÚTBOL DE VALLECAS</Nome> <Capacidade>15105</Capacidade></Row>
+<Row><ID>644</ID> <Nome>NEFTYANIK</Nome> <Capacidade>15132</Capacidade></Row>
+<Row><ID>607</ID> <Nome>LENIN STADION</Nome> <Capacidade>15200</Capacidade></Row>
+<Row><ID>735</ID> <Nome>STADE FRANCIS-LE BLÉ</Nome> <Capacidade>15220</Capacidade></Row>
+<Row><ID>461</ID> <Nome>ÇAYKUR DIDI</Nome> <Capacidade>15332</Capacidade></Row>
+<Row><ID>643</ID> <Nome>NATURE ENERGY PARK</Nome> <Capacidade>15790</Capacidade></Row>
+<Row><ID>442</ID> <Nome>BALIKESIR ATATÜRK</Nome> <Capacidade>15800</Capacidade></Row>
+<Row><ID>440</ID> <Nome>AUDI SPORTPARK</Nome> <Capacidade>15800</Capacidade></Row>
+<Row><ID>2345</ID> <Nome>GERHARD HANAPPI STADION</Nome> <Capacidade>16000</Capacidade></Row>
+<Row><ID>562</ID> <Nome>GIOVANNI ZINI</Nome> <Capacidade>16003</Capacidade></Row>
+<Row><ID>738</ID> <Nome>STADE GASTON-GÉRARD</Nome> <Capacidade>16098</Capacidade></Row>
+<Row><ID>669</ID> <Nome>PAOLO MAZZA</Nome> <Capacidade>16134</Capacidade></Row>
+<Row><ID>482</ID> <Nome>DE BOSUIL</Nome> <Capacidade>16144</Capacidade></Row>
+<Row><ID>446</ID> <Nome>BENITO STIRPE</Nome> <Capacidade>16227</Capacidade></Row>
+<Row><ID>794</ID> <Nome>UNIPOL DOMUS</Nome> <Capacidade>16416</Capacidade></Row>
+<Row><ID>717</ID> <Nome>STADE ARMAND-CESARI</Nome> <Capacidade>16480</Capacidade></Row>
+<Row><ID>713</ID> <Nome>SPORTPARK RONHOF | THOMAS SOMMER</Nome> <Capacidade>16626</Capacidade></Row>
+<Row><ID>550</ID> <Nome>EZIO SCIDA</Nome> <Capacidade>16640</Capacidade></Row>
+<Row><ID>473</ID> <Nome>COLISEUM</Nome> <Capacidade>16800</Capacidade></Row>
+<Row><ID>470</ID> <Nome>CIRO VIGORITO</Nome> <Capacidade>16867</Capacidade></Row>
+<Row><ID>796</ID> <Nome>VALERIY LOBANOVSKY STADION</Nome> <Capacidade>16873</Capacidade></Row>
+<Row><ID>795</ID> <Nome>U-POWER STADIUM - BRIANTEO</Nome> <Capacidade>16917</Capacidade></Row>
+<Row><ID>450</ID> <Nome>BLUE WATER ARENA</Nome> <Capacidade>16942</Capacidade></Row>
+<Row><ID>823</ID> <Nome>ZVEZDA</Nome> <Capacidade>17000</Capacidade></Row>
+<Row><ID>741</ID> <Nome>STADE LOUIS-II</Nome> <Capacidade>17000</Capacidade></Row>
+<Row><ID>443</ID> <Nome>BASAKSEHIR FATIH TERIM</Nome> <Capacidade>17156</Capacidade></Row>
+<Row><ID>574</ID> <Nome>GTECH COMMUNITY STADIUM</Nome> <Capacidade>17250</Capacidade></Row>
+<Row><ID>2692</ID> <Nome>BRENTFORD COMMUNITY STADIUM</Nome> <Capacidade>17250</Capacidade></Row>
+<Row><ID>630</ID> <Nome>MERCK-STADION AM BÖLLENFALLTOR</Nome> <Capacidade>17500</Capacidade></Row>
+<Row><ID>821</ID> <Nome>ZENTRALSTADION LOKOMOTIV</Nome> <Capacidade>17856</Capacidade></Row>
+<Row><ID>734</ID> <Nome>STADE DU ROUDOUROU</Nome> <Capacidade>18120</Capacidade></Row>
+<Row><ID>445</ID> <Nome>BBSP STADIUM, RUGBY PARK</Nome> <Capacidade>18128</Capacidade></Row>
+<Row><ID>680</ID> <Nome>POWER HORSE STADIUM</Nome> <Capacidade>18331</Capacidade></Row>
+<Row><ID>609</ID> <Nome>LOFTUS ROAD STADIUM</Nome> <Capacidade>18360</Capacidade></Row>
+<Row><ID>2121</ID> <Nome>AUESTADION</Nome> <Capacidade>18482</Capacidade></Row>
+<Row><ID>727</ID> <Nome>STADE DE L'ABBÉ-DESCHAMPS</Nome> <Capacidade>18541</Capacidade></Row>
+<Row><ID>434</ID> <Nome>ARENA KHIMKI</Nome> <Capacidade>18636</Capacidade></Row>
+<Row><ID>525</ID> <Nome>ESTÁDIO DO BONFIM</Nome> <Capacidade>18642</Capacidade></Row>
+<Row><ID>486</ID> <Nome>DENIZLI ATATÜRK STADI</Nome> <Capacidade>18745</Capacidade></Row>
+<Row><ID>684</ID> <Nome>RAT VERLEGH STADION</Nome> <Capacidade>19000</Capacidade></Row>
+<Row><ID>731</ID> <Nome>STADE DU MOUSTOIR</Nome> <Capacidade>19010</Capacidade></Row>
+<Row><ID>436</ID> <Nome>ARMANDO PICCHI</Nome> <Capacidade>19238</Capacidade></Row>
+<Row><ID>437</ID> <Nome>ARSENAL</Nome> <Capacidade>19241</Capacidade></Row>
+<Row><ID>652</ID> <Nome>NUEVO LOS CÁRMENES</Nome> <Capacidade>19336</Capacidade></Row>
+<Row><ID>745</ID> <Nome>STADE RAYMOND KOPA</Nome> <Capacidade>19350</Capacidade></Row>
+<Row><ID>467</ID> <Nome>CERES PARK</Nome> <Capacidade>19433</Capacidade></Row>
+<Row><ID>421</ID> <Nome>AFAS STADION</Nome> <Capacidade>19478</Capacidade></Row>
+<Row><ID>1792</ID> <Nome>ARENA ZABRZE</Nome> <Capacidade>19528</Capacidade></Row>
+<Row><ID>621</ID> <Nome>MARIO RIGAMONTI</Nome> <Capacidade>19550</Capacidade></Row>
+<Row><ID>665</ID> <Nome>OSMANLI STADI</Nome> <Capacidade>19626</Capacidade></Row>
+<Row><ID>576</ID> <Nome>GÜRSEL AKSEL STADYUMU</Nome> <Capacidade>19713</Capacidade></Row>
+<Row><ID>1621</ID> <Nome>KONING BOUDEWIJN STADION</Nome> <Capacidade>19786</Capacidade></Row>
+<Row><ID>629</ID> <Nome>MENDIZORROZA</Nome> <Capacidade>19840</Capacidade></Row>
+<Row><ID>459</ID> <Nome>CARLO CASTELLANI</Nome> <Capacidade>19847</Capacidade></Row>
+<Row><ID>791</ID> <Nome>TYNECASTLE PARK</Nome> <Capacidade>19852</Capacidade></Row>
+<Row><ID>698</ID> <Nome>RS LOKOMOTIV</Nome> <Capacidade>19978</Capacidade></Row>
+<Row><ID>673</ID> <Nome>PARKSTAD LIMBURG STADION</Nome> <Capacidade>19979</Capacidade></Row>
+<Row><ID>528</ID> <Nome>ESTÁDIO DO RESTELO</Nome> <Capacidade>19980</Capacidade></Row>
+<Row><ID>561</ID> <Nome>GHELAMCO ARENA</Nome> <Capacidade>19999</Capacidade></Row>
+<Row><ID>718</ID> <Nome>STADE AUGUSTE-BONAL</Nome> <Capacidade>20005</Capacidade></Row>
+<Row><ID>1697</ID> <Nome>ADJARABET ARENA</Nome> <Capacidade>20022</Capacidade></Row>
+<Row><ID>1297</ID> <Nome>SAPUTO STADIUM</Nome> <Capacidade>20057</Capacidade></Row>
+<Row><ID>742</ID> <Nome>STADE MARCEL-PICOT</Nome> <Capacidade>20087</Capacidade></Row>
+<Row><ID>469</ID> <Nome>CIBALI - ANGELO MASSIMINO</Nome> <Capacidade>20204</Capacidade></Row>
+<Row><ID>497</ID> <Nome>EASTER ROAD STADIUM</Nome> <Capacidade>20250</Capacidade></Row>
+<Row><ID>420</ID> <Nome>ADRIATICO</Nome> <Capacidade>20476</Capacidade></Row>
+<Row><ID>743</ID> <Nome>STADE MICHEL-D'ORNANO</Nome> <Capacidade>20500</Capacidade></Row>
+<Row><ID>616</ID> <Nome>MALLORCA SON MOIX</Nome> <Capacidade>20500</Capacidade></Row>
+<Row><ID>509</ID> <Nome>ERYAMAN STADYUMU</Nome> <Capacidade>20560</Capacidade></Row>
+<Row><ID>1369</ID> <Nome>STADION DER FREUNDSCHAFT</Nome> <Capacidade>20602</Capacidade></Row>
+<Row><ID>675</ID> <Nome>PETROVSKY</Nome> <Capacidade>20985</Capacidade></Row>
+<Row><ID>776</ID> <Nome>SWANSEA.COM STADIUM</Nome> <Capacidade>21088</Capacidade></Row>
+<Row><ID>653</ID> <Nome>NUEVO MIRANDILLA</Nome> <Capacidade>21094</Capacidade></Row>
+<Row><ID>559</ID> <Nome>GELREDOME</Nome> <Capacidade>21248</Capacidade></Row>
+<Row><ID>611</ID> <Nome>LOTTO PARK</Nome> <Capacidade>21500</Capacidade></Row>
+<Row><ID>476</ID> <Nome>ÇOTANAK SPOR KOMPLEKSI</Nome> <Capacidade>21500</Capacidade></Row>
+<Row><ID>802</ID> <Nome>VICARAGE ROAD</Nome> <Capacidade>21577</Capacidade></Row>
+<Row><ID>619</ID> <Nome>MAPEI STADIUM - CITTÀ DEL TRICOLORE</Nome> <Capacidade>21584</Capacidade></Row>
+<Row><ID>719</ID> <Nome>STADE AUGUSTE-DELAUNE</Nome> <Capacidade>21684</Capacidade></Row>
+<Row><ID>560</ID> <Nome>GEWISS STADIUM</Nome> <Capacidade>21747</Capacidade></Row>
+<Row><ID>464</ID> <Nome>CENTRAL STADIUM OF PROFSOYUZES</Nome> <Capacidade>21793</Capacidade></Row>
+<Row><ID>650</ID> <Nome>NUEVO ARCÁNGEL</Nome> <Capacidade>21822</Capacidade></Row>
+<Row><ID>728</ID> <Nome>STADE DE L'AUBE</Nome> <Capacidade>21877</Capacidade></Row>
+<Row><ID>790</ID> <Nome>TURF MOOR</Nome> <Capacidade>21994</Capacidade></Row>
+<Row><ID>761</ID> <Nome>STADION AN DER ALTEN FÖRSTEREI</Nome> <Capacidade>22012</Capacidade></Row>
+<Row><ID>2539</ID> <Nome>SHENZHEN UNIVERSIADE SPORTS CENTRE STADIUM</Nome> <Capacidade>22045</Capacidade></Row>
+<Row><ID>678</ID> <Nome>PITTODRIE STADIUM</Nome> <Capacidade>22199</Capacidade></Row>
+<Row><ID>507</ID> <Nome>ENNIO TARDINI</Nome> <Capacidade>22352</Capacidade></Row>
+<Row><ID>548</ID> <Nome>EUROBORG</Nome> <Capacidade>22555</Capacidade></Row>
+<Row><ID>668</ID> <Nome>PANTHESSALIKO STADIO</Nome> <Capacidade>22700</Capacidade></Row>
+<Row><ID>563</ID> <Nome>GIPEDO "KLEANTHIS VIKELIDIS"</Nome> <Capacidade>22800</Capacidade></Row>
+<Row><ID>503</ID> <Nome>ELAZIG STADYUMU</Nome> <Capacidade>23000</Capacidade></Row>
+<Row><ID>816</ID> <Nome>YEKATERINBURG ARENA</Nome> <Capacidade>23000</Capacidade></Row>
+<Row><ID>499</ID> <Nome>EINTRACHT-STADION</Nome> <Capacidade>23325</Capacidade></Row>
+<Row><ID>603</ID> <Nome>LA CERÁMICA</Nome> <Capacidade>23500</Capacidade></Row>
+<Row><ID>1715</ID> <Nome>MRSOOL PARK</Nome> <Capacidade>23500</Capacidade></Row>
+<Row><ID>502</ID> <Nome>EL SADAR</Nome> <Capacidade>23576</Capacidade></Row>
+<Row><ID>2126</ID> <Nome>YANMAR STADIUM NAGAI</Nome> <Capacidade>23609</Capacidade></Row>
+<Row><ID>510</ID> <Nome>ERZURUM KAZIM KARABEKIR</Nome> <Capacidade>23700</Capacidade></Row>
+<Row><ID>760</ID> <Nome>STADION "GALGENWAARD"</Nome> <Capacidade>23750</Capacidade></Row>
+<Row><ID>810</ID> <Nome>VORSKLA IM. OLEKSIY BUTOVSKYI</Nome> <Capacidade>23842</Capacidade></Row>
+<Row><ID>663</ID> <Nome>OROGEL STADIUM - DINO MANUZZI</Nome> <Capacidade>23860</Capacidade></Row>
+<Row><ID>705</ID> <Nome>SELECT CAR LEASING STADIUM</Nome> <Capacidade>24161</Capacidade></Row>
+<Row><ID>635</ID> <Nome>METEOR</Nome> <Capacidade>24381</Capacidade></Row>
+<Row><ID>587</ID> <Nome>JOHN SMITH'S STADIUM</Nome> <Capacidade>24500</Capacidade></Row>
+<Row><ID>462</ID> <Nome>CEGEKA ARENA</Nome> <Capacidade>24956</Capacidade></Row>
+<Row><ID>730</ID> <Nome>STADE DU HAINAUT</Nome> <Capacidade>25000</Capacidade></Row>
+<Row><ID>632</ID> <Nome>MERSIN STADYUMU</Nome> <Capacidade>25000</Capacidade></Row>
+<Row><ID>496</ID> <Nome>DW STADIUM</Nome> <Capacidade>25133</Capacidade></Row>
+<Row><ID>451</ID> <Nome>BLUENERGY STADIUM</Nome> <Capacidade>25144</Capacidade></Row>
+<Row><ID>744</ID> <Nome>STADE OCÉANE</Nome> <Capacidade>25178</Capacidade></Row>
+<Row><ID>639</ID> <Nome>MKM STADIUM</Nome> <Capacidade>25586</Capacidade></Row>
+<Row><ID>478</ID> <Nome>CRAVEN COTTAGE</Nome> <Capacidade>25700</Capacidade></Row>
+<Row><ID>811</ID> <Nome>VTB-ARENA</Nome> <Capacidade>25716</Capacidade></Row>
+<Row><ID>819</ID> <Nome>YENI MALATYA STADYUMU</Nome> <Capacidade>25745</Capacidade></Row>
+<Row><ID>667</ID> <Nome>PANKRITIO STADIO</Nome> <Capacidade>25780</Capacidade></Row>
+<Row><ID>809</ID> <Nome>VONOVIA RUHRSTADION</Nome> <Capacidade>26000</Capacidade></Row>
+<Row><ID>706</ID> <Nome>SELHURST PARK</Nome> <Capacidade>26047</Capacidade></Row>
+<Row><ID>725</ID> <Nome>STADE DE LA MEINAU</Nome> <Capacidade>26109</Capacidade></Row>
+<Row><ID>471</ID> <Nome>CIUTAT DE VALÈNCIA</Nome> <Capacidade>26354</Capacidade></Row>
+<Row><ID>704</ID> <Nome>SCHÜCOARENA</Nome> <Capacidade>26515</Capacidade></Row>
+<Row><ID>1824</ID> <Nome>STADE CHABAN-DELMAS</Nome> <Capacidade>26609</Capacidade></Row>
+<Row><ID>2054</ID> <Nome>NATIONAL ARENA</Nome> <Capacidade>26783</Capacidade></Row>
+<Row><ID>781</ID> <Nome>THE HAWTHORNS</Nome> <Capacidade>26850</Capacidade></Row>
+<Row><ID>699</ID> <Nome>RZD ARENA</Nome> <Capacidade>27084</Capacidade></Row>
+<Row><ID>2487</ID> <Nome>STEAUA</Nome> <Capacidade>27135</Capacidade></Row>
+<Row><ID>419</ID> <Nome>ABE LENSTRA STADION</Nome> <Capacidade>27224</Capacidade></Row>
+<Row><ID>460</ID> <Nome>CARROW ROAD</Nome> <Capacidade>27244</Capacidade></Row>
+<Row><ID>2017</ID> <Nome>CHERNOMORETS</Nome> <Capacidade>27400</Capacidade></Row>
+<Row><ID>817</ID> <Nome>YENI 4 EYLÜL STADI</Nome> <Capacidade>27532</Capacidade></Row>
+<Row><ID>651</ID> <Nome>NUEVO JOSÉ ZORRILLA</Nome> <Capacidade>27618</Capacidade></Row>
+<Row><ID>624</ID> <Nome>MAURICE DUFRASNE STADION</Nome> <Capacidade>27670</Capacidade></Row>
+<Row><ID>589</ID> <Nome>KAFTANZOGLIO STADIO</Nome> <Capacidade>27770</Capacidade></Row>
+<Row><ID>453</ID> <Nome>BRØNDBY STADION</Nome> <Capacidade>28000</Capacidade></Row>
+<Row><ID>772</ID> <Nome>STADION UKRAINA</Nome> <Capacidade>28051</Capacidade></Row>
+<Row><ID>755</ID> <Nome>STADIO OLIMPICO GRANDE TORINO</Nome> <Capacidade>28177</Capacidade></Row>
+<Row><ID>524</ID> <Nome>ESTÁDIO DO BESSA SÉCULO XXI</Nome> <Capacidade>28263</Capacidade></Row>
+<Row><ID>785</ID> <Nome>TOUMBA STADIUM</Nome> <Capacidade>28703</Capacidade></Row>
+<Row><ID>746</ID> <Nome>STADE SAINT-SYMPHORIEN</Nome> <Capacidade>28786</Capacidade></Row>
+<Row><ID>2683</ID> <Nome>CORNELLÀ-EL PRAT</Nome> <Capacidade>28800</Capacidade></Row>
+<Row><ID>808</ID> <Nome>VOLKSWAGEN ARENA</Nome> <Capacidade>28917</Capacidade></Row>
+<Row><ID>1268</ID> <Nome>TOFIK BAKHRAMOV STADION</Nome> <Capacidade>29000</Capacidade></Row>
+<Row><ID>417</ID> <Nome>ABANCA BALAÍDOS</Nome> <Capacidade>29000</Capacidade></Row>
+<Row><ID>501</ID> <Nome>EL MOLINÓN - ENRIQUE CASTRO QUINI</Nome> <Capacidade>29029</Capacidade></Row>
+<Row><ID>585</ID> <Nome>JAN-BREYDEL-STADION</Nome> <Capacidade>29062</Capacidade></Row>
+<Row><ID>1913</ID> <Nome>ENEA POZNAN</Nome> <Capacidade>29122</Capacidade></Row>
+<Row><ID>1843</ID> <Nome>MILLERNTOR-STADION</Nome> <Capacidade>29546</Capacidade></Row>
+<Row><ID>433</ID> <Nome>ARECHI</Nome> <Capacidade>29739</Capacidade></Row>
+<Row><ID>518</ID> <Nome>ESTÁDIO CIDADE DE COIMBRA</Nome> <Capacidade>29744</Capacidade></Row>
+<Row><ID>695</ID> <Nome>ROAZHON PARK</Nome> <Capacidade>29778</Capacidade></Row>
+<Row><ID>1388</ID> <Nome>SHANGHAI STADIUM</Nome> <Capacidade>30000</Capacidade></Row>
+<Row><ID>519</ID> <Nome>ESTÁDIO D. AFONSO HENRIQUES</Nome> <Capacidade>30029</Capacidade></Row>
+<Row><ID>605</ID> <Nome>LA ROSALEDA</Nome> <Capacidade>30044</Capacidade></Row>
+<Row><ID>448</ID> <Nome>BET365 STADIUM</Nome> <Capacidade>30089</Capacidade></Row>
+<Row><ID>798</ID> <Nome>VEB ARENA</Nome> <Capacidade>30114</Capacidade></Row>
+<Row><ID>681</ID> <Nome>PREZERO ARENA</Nome> <Capacidade>30150</Capacidade></Row>
+<Row><ID>423</ID> <Nome>AKHMAT-ARENA</Nome> <Capacidade>30200</Capacidade></Row>
+<Row><ID>483</ID> <Nome>DE GROLSCH VESTE</Nome> <Capacidade>30205</Capacidade></Row>
+<Row><ID>444</ID> <Nome>BAYARENA</Nome> <Capacidade>30210</Capacidade></Row>
+<Row><ID>539</ID> <Nome>ESTÁDIO MUNICIPAL DE BRAGA</Nome> <Capacidade>30286</Capacidade></Row>
+<Row><ID>779</ID> <Nome>THE CITY GROUND</Nome> <Capacidade>30445</Capacidade></Row>
+<Row><ID>1400</ID> <Nome>RUDOLF-HARBIG-STADION</Nome> <Capacidade>30503</Capacidade></Row>
+<Row><ID>813</ID> <Nome>WWK ARENA</Nome> <Capacidade>30660</Capacidade></Row>
+<Row><ID>493</ID> <Nome>DNIPRO-ARENA</Nome> <Capacidade>31003</Capacidade></Row>
+<Row><ID>618</ID> <Nome>MANUEL MARTÍNEZ VALERO</Nome> <Capacidade>31388</Capacidade></Row>
+<Row><ID>2531</ID> <Nome>TOYOTA STADIUM</Nome> <Capacidade>31417</Capacidade></Row>
+<Row><ID>547</ID> <Nome>ETTORE GIARDINIERO</Nome> <Capacidade>31559</Capacidade></Row>
+<Row><ID>602</ID> <Nome>KUBAN STADIUM</Nome> <Capacidade>31654</Capacidade></Row>
+<Row><ID>1791</ID> <Nome>TIVOLI</Nome> <Capacidade>31736</Capacidade></Row>
+<Row><ID>430</ID> <Nome>AMEX STADIUM</Nome> <Capacidade>31800</Capacidade></Row>
+<Row><ID>640</ID> <Nome>MOLINEUX STADIUM</Nome> <Capacidade>32050</Capacidade></Row>
+<Row><ID>749</ID> <Nome>STADIO GEORGIOS KARAISKAKIS</Nome> <Capacidade>32115</Capacidade></Row>
+<Row><ID>596</ID> <Nome>KING POWER STADIUM</Nome> <Capacidade>32273</Capacidade></Row>
+<Row><ID>715</ID> <Nome>ST MARY'S STADIUM</Nome> <Capacidade>32384</Capacidade></Row>
+<Row><ID>522</ID> <Nome>ESTADIO DE GRAN CANARIA</Nome> <Capacidade>32400</Capacidade></Row>
+<Row><ID>690</ID> <Nome>REPUBLICAN STADIUM SPARTAK</Nome> <Capacidade>32464</Capacidade></Row>
+<Row><ID>661</ID> <Nome>OPAP ARENA</Nome> <Capacidade>32500</Capacidade></Row>
+<Row><ID>475</ID> <Nome>CORENDON AIRLINES PARK ANTALYA STADI</Nome> <Capacidade>32537</Capacidade></Row>
+<Row><ID>452</ID> <Nome>BRAMALL LANE</Nome> <Capacidade>32702</Capacidade></Row>
+<Row><ID>538</ID> <Nome>ESTÁDIO MUNICIPAL DE AVEIRO</Nome> <Capacidade>32830</Capacidade></Row>
+<Row><ID>1561</ID> <Nome>MURRAYFIELD</Nome> <Capacidade>32852</Capacidade></Row>
+<Row><ID>692</ID> <Nome>RHG ENERTÜRK ENERJI STADYUMU</Nome> <Capacidade>32864</Capacidade></Row>
+<Row><ID>418</ID> <Nome>ABANCA RIAZOR</Nome> <Capacidade>32912</Capacidade></Row>
+<Row><ID>726</ID> <Nome>STADE DE LA MOSSON</Nome> <Capacidade>32939</Capacidade></Row>
+<Row><ID>818</ID> <Nome>YENI ADANA STADYUMU</Nome> <Capacidade>33000</Capacidade></Row>
+<Row><ID>773</ID> <Nome>STADIUM MUNICIPAL</Nome> <Capacidade>33150</Capacidade></Row>
+<Row><ID>458</ID> <Nome>CARDIFF CITY STADIUM</Nome> <Capacidade>33280</Capacidade></Row>
+<Row><ID>636</ID> <Nome>MEWA ARENA</Nome> <Capacidade>33305</Capacidade></Row>
+<Row><ID>590</ID> <Nome>KALYON STADYUMU</Nome> <Capacidade>33502</Capacidade></Row>
+<Row><ID>556</ID> <Nome>GAZIANTEP STADYUMU</Nome> <Capacidade>33502</Capacidade></Row>
+<Row><ID>604</ID> <Nome>LA ROMAREDA</Nome> <Capacidade>33608</Capacidade></Row>
+<Row><ID>694</ID> <Nome>RIVERSIDE STADIUM</Nome> <Capacidade>33746</Capacidade></Row>
+<Row><ID>700</ID> <Nome>SAMSUN YENI 19 MAYIS STADYUMU</Nome> <Capacidade>33919</Capacidade></Row>
+<Row><ID>764</ID> <Nome>STADION CHORNOMORETS 2011</Nome> <Capacidade>34164</Capacidade></Row>
+<Row><ID>1178</ID> <Nome>STADE DE PORT-GENTIL</Nome> <Capacidade>34658</Capacidade></Row>
+<Row><ID>549</ID> <Nome>EUROPA-PARK STADION</Nome> <Capacidade>34700</Capacidade></Row>
+<Row><ID>435</ID> <Nome>ARENA LVIV</Nome> <Capacidade>34725</Capacidade></Row>
+<Row><ID>1265</ID> <Nome>ESTADIO CIUDAD DE LOS DEPORTES</Nome> <Capacidade>34862</Capacidade></Row>
+<Row><ID>2504</ID> <Nome>STADE ADRAR</Nome> <Capacidade>34875</Capacidade></Row>
+<Row><ID>512</ID> <Nome>ESKISEHIR YENI STADYUM</Nome> <Capacidade>34930</Capacidade></Row>
+<Row><ID>676</ID> <Nome>PHILIPS STADION</Nome> <Capacidade>35000</Capacidade></Row>
+<Row><ID>696</ID> <Nome>ROSTECH ARENA</Nome> <Capacidade>35000</Capacidade></Row>
+<Row><ID>2098</ID> <Nome>BOLEYN GROUND</Nome> <Capacidade>35153</Capacidade></Row>
+<Row><ID>770</ID> <Nome>STADION KRASNODAR</Nome> <Capacidade>35179</Capacidade></Row>
+<Row><ID>427</ID> <Nome>ALLIANZ RIVIERA</Nome> <Capacidade>36178</Capacidade></Row>
+<Row><ID>612</ID> <Nome>LUIGI FERRARIS</Nome> <Capacidade>36348</Capacidade></Row>
+<Row><ID>474</ID> <Nome>COMUNALE RENZO BARBERA "LA FAVORITA"</Nome> <Capacidade>36365</Capacidade></Row>
+<Row><ID>757</ID> <Nome>STADIO RENATO DALL’ARA</Nome> <Capacidade>36462</Capacidade></Row>
+<Row><ID>1188</ID> <Nome>WHITE HART LANE</Nome> <Capacidade>36763</Capacidade></Row>
+<Row><ID>724</ID> <Nome>STADE DE LA BEAUJOIRE</Nome> <Capacidade>37463</Capacidade></Row>
+<Row><ID>543</ID> <Nome>ESTÁDIO NACIONAL DO JAMOR</Nome> <Capacidade>37593</Capacidade></Row>
+<Row><ID>505</ID> <Nome>ELLAND ROAD</Nome> <Capacidade>37890</Capacidade></Row>
+<Row><ID>672</ID> <Nome>PARKEN</Nome> <Capacidade>38065</Capacidade></Row>
+<Row><ID>720</ID> <Nome>STADE BOLLAERT-DELELIS</Nome> <Capacidade>38223</Capacidade></Row>
+<Row><ID>2187</ID> <Nome>STADE DE MARRAKECH</Nome> <Capacidade>38345</Capacidade></Row>
+<Row><ID>664</ID> <Nome>OSK METALIST</Nome> <Capacidade>38685</Capacidade></Row>
+<Row><ID>620</ID> <Nome>MARCANTONIO BENTEGODI</Nome> <Capacidade>39211</Capacidade></Row>
+<Row><ID>687</ID> <Nome>REALE ARENA</Nome> <Capacidade>39313</Capacidade></Row>
+<Row><ID>572</ID> <Nome>GOODISON PARK</Nome> <Capacidade>39571</Capacidade></Row>
+<Row><ID>2505</ID> <Nome>WORKERS STADIUM</Nome> <Capacidade>39752</Capacidade></Row>
+<Row><ID>685</ID> <Nome>RCDE STADIUM</Nome> <Capacidade>40500</Capacidade></Row>
+<Row><ID>670</ID> <Nome>PAPARA PARK</Nome> <Capacidade>40782</Capacidade></Row>
+<Row><ID>775</ID> <Nome>STAMFORD BRIDGE</Nome> <Capacidade>40853</Capacidade></Row>
+<Row><ID>2219</ID> <Nome>STADE DE GERLAND</Nome> <Capacidade>41044</Capacidade></Row>
+<Row><ID>1401</ID> <Nome>ZAYED SPORTS CITY STADIUM</Nome> <Capacidade>41094</Capacidade></Row>
+<Row><ID>1258</ID> <Nome>UNIVERSIADE CENTER, NEW SHENZHEN STADIUM</Nome> <Capacidade>41237</Capacidade></Row>
+<Row><ID>428</ID> <Nome>ALLIANZ STADIUM</Nome> <Capacidade>41507</Capacidade></Row>
+<Row><ID>885</ID> <Nome>TARCZYNSKI ARENA WROCLAW</Nome> <Capacidade>41955</Capacidade></Row>
+<Row><ID>628</ID> <Nome>MEDAS KONYA BÜYÜKSEHIR STADYUMU</Nome> <Capacidade>42000</Capacidade></Row>
+<Row><ID>739</ID> <Nome>STADE GEOFFROY-GUICHARD</Nome> <Capacidade>42000</Capacidade></Row>
+<Row><ID>812</ID> <Nome>WOHNINVEST-WESERSTADION</Nome> <Capacidade>42100</Capacidade></Row>
+<Row><ID>623</ID> <Nome>MATMUT ATLANTIQUE</Nome> <Capacidade>42115</Capacidade></Row>
+<Row><ID>710</ID> <Nome>SOLIDARNOST SAMARA ARENA</Nome> <Capacidade>42347</Capacidade></Row>
+<Row><ID>789</ID> <Nome>TÜPRAS STADYUMU</Nome> <Capacidade>42590</Capacidade></Row>
+<Row><ID>803</ID> <Nome>VILLA PARK</Nome> <Capacidade>42682</Capacidade></Row>
+<Row><ID>438</ID> <Nome>ARTEMIO FRANCHI</Nome> <Capacidade>43147</Capacidade></Row>
+<Row><ID>454</ID> <Nome>BURSA BÜYÜKSEHIR BELEDIYE STADYUMU</Nome> <Capacidade>43361</Capacidade></Row>
+<Row><ID>683</ID> <Nome>RAMÓN SÁNCHEZ-PIZJUÁN</Nome> <Capacidade>43883</Capacidade></Row>
+<Row><ID>1509</ID> <Nome>STADE MOHAMED V</Nome> <Capacidade>43891</Capacidade></Row>
+<Row><ID>645</ID> <Nome>NIZHNY NOVGOROD STADIUM</Nome> <Capacidade>44242</Capacidade></Row>
+<Row><ID>1240</ID> <Nome>COMPLEXE SPORTIF MOULAY ABDALLAH</Nome> <Capacidade>44439</Capacidade></Row>
+<Row><ID>642</ID> <Nome>MORDOVIA ARENA</Nome> <Capacidade>44442</Capacidade></Row>
+<Row><ID>666</ID> <Nome>OTKRYTIE BANK ARENA</Nome> <Capacidade>44571</Capacidade></Row>
+<Row><ID>2418</ID> <Nome>PGE NARODOWY</Nome> <Capacidade>45000</Capacidade></Row>
+<Row><ID>422</ID> <Nome>AK BARS ARENA</Nome> <Capacidade>45379</Capacidade></Row>
+<Row><ID>697</ID> <Nome>ROSTOV ARENA</Nome> <Capacidade>45415</Capacidade></Row>
+<Row><ID>1572</ID> <Nome>KHALIFA INTERNATIONAL STADIUM</Nome> <Capacidade>45416</Capacidade></Row>
+<Row><ID>806</ID> <Nome>VOLGOGRAD ARENA</Nome> <Capacidade>45568</Capacidade></Row>
+<Row><ID>552</ID> <Nome>FISHT OLYMPIC STADIUM</Nome> <Capacidade>45994</Capacidade></Row>
+<Row><ID>689</ID> <Nome>RED BULL ARENA</Nome> <Capacidade>47069</Capacidade></Row>
+<Row><ID>1227</ID> <Nome>STADE IBN BATOUTA</Nome> <Capacidade>47137</Capacidade></Row>
+<Row><ID>2049</ID> <Nome>RAJKO MITIC</Nome> <Capacidade>47201</Capacidade></Row>
+<Row><ID>765</ID> <Nome>STADION FEYENOORD "DE KUIP"</Nome> <Capacidade>47500</Capacidade></Row>
+<Row><ID>792</ID> <Nome>ÜLKER STADYUMU FB SÜKRÜ SARAÇOGLU SPOR KOMPLEKSI</Nome> <Capacidade>47834</Capacidade></Row>
+<Row><ID>774</ID> <Nome>STADIUM OF LIGHT</Nome> <Capacidade>48707</Capacidade></Row>
+<Row><ID>578</ID> <Nome>HEINZ-VON-HEIDEN-ARENA</Nome> <Capacidade>49000</Capacidade></Row>
+<Row><ID>633</ID> <Nome>MESTALLA</Nome> <Capacidade>49430</Capacidade></Row>
+<Row><ID>671</ID> <Nome>PARC DES PRINCES</Nome> <Capacidade>49691</Capacidade></Row>
+<Row><ID>625</ID> <Nome>MAX-MORLOCK-STADION</Nome> <Capacidade>50000</Capacidade></Row>
+<Row><ID>691</ID> <Nome>RHEINENERGIESTADION</Nome> <Capacidade>50000</Capacidade></Row>
+<Row><ID>526</ID> <Nome>ESTÁDIO DO DRAGÃO</Nome> <Capacidade>50033</Capacidade></Row>
+<Row><ID>532</ID> <Nome>ESTÁDIO JOSÉ ALVALADE XXI</Nome> <Capacidade>50095</Capacidade></Row>
+<Row><ID>485</ID> <Nome>DECATHLON ARENA-STADE PIERRE-MAUROY</Nome> <Capacidade>50186</Capacidade></Row>
+<Row><ID>583</ID> <Nome>IBROX STADIUM</Nome> <Capacidade>50987</Capacidade></Row>
+<Row><ID>2371</ID> <Nome>RAJKO MITIC STADIUM</Nome> <Capacidade>51364</Capacidade></Row>
+<Row><ID>425</ID> <Nome>ALI SAMI YEN SPOR KOMPLEKSI RAMS PARK</Nome> <Capacidade>52223</Capacidade></Row>
+<Row><ID>714</ID> <Nome>ST JAMES' PARK</Nome> <Capacidade>52338</Capacidade></Row>
+<Row><ID>701</ID> <Nome>SAN MAMÉS</Nome> <Capacidade>53289</Capacidade></Row>
+<Row><ID>1220</ID> <Nome>DONBASS ARENA</Nome> <Capacidade>53423</Capacidade></Row>
+<Row><ID>766</ID> <Nome>STADION IM BORUSSIA-PARK</Nome> <Capacidade>54042</Capacidade></Row>
+<Row><ID>431</ID> <Nome>ANFIELD</Nome> <Capacidade>54074</Capacidade></Row>
+<Row><ID>631</ID> <Nome>MERKUR SPIEL-ARENA</Nome> <Capacidade>54600</Capacidade></Row>
+<Row><ID>748</ID> <Nome>STADIO DIEGO ARMANDO MARADONA</Nome> <Capacidade>54726</Capacidade></Row>
+<Row><ID>487</ID> <Nome>DEUTSCHE BANK PARK</Nome> <Capacidade>55000</Capacidade></Row>
+<Row><ID>546</ID> <Nome>ETIHAD STADIUM</Nome> <Capacidade>55017</Capacidade></Row>
+<Row><ID>2334</ID> <Nome>ESTADIO DE LA CARTUJA</Nome> <Capacidade>55579</Capacidade></Row>
+<Row><ID>586</ID> <Nome>JOHAN CRUIJFF ARENA</Nome> <Capacidade>55600</Capacidade></Row>
+<Row><ID>657</ID> <Nome>OLÍMPIC LLUÍS COMPANYS</Nome> <Capacidade>55926</Capacidade></Row>
+<Row><ID>807</ID> <Nome>VOLKSPARKSTADION</Nome> <Capacidade>57000</Capacidade></Row>
+<Row><ID>573</ID> <Nome>GROUPAMA STADIUM</Nome> <Capacidade>59186</Capacidade></Row>
+<Row><ID>1000</ID> <Nome>NATIONAL STADIUM BIRD'S NEST</Nome> <Capacidade>60000</Capacidade></Row>
+<Row><ID>637</ID> <Nome>MHPARENA STUTTGART</Nome> <Capacidade>60449</Capacidade></Row>
+<Row><ID>506</ID> <Nome>EMIRATES STADIUM</Nome> <Capacidade>60704</Capacidade></Row>
+<Row><ID>447</ID> <Nome>BENITO VILLAMARÍN</Nome> <Capacidade>60721</Capacidade></Row>
+<Row><ID>463</ID> <Nome>CELTIC PARK</Nome> <Capacidade>60832</Capacidade></Row>
+<Row><ID>2032</ID> <Nome>KING ABDULLAH SPORTS CITY</Nome> <Capacidade>61235</Capacidade></Row>
+<Row><ID>1553</ID> <Nome>PUSKÁS ARÉNA</Nome> <Capacidade>61476</Capacidade></Row>
+<Row><ID>784</ID> <Nome>TOTTENHAM HOTSPUR STADIUM</Nome> <Capacidade>62062</Capacidade></Row>
+<Row><ID>800</ID> <Nome>VELTINS-ARENA</Nome> <Capacidade>62271</Capacidade></Row>
+<Row><ID>610</ID> <Nome>LONDON STADIUM</Nome> <Capacidade>62500</Capacidade></Row>
+<Row><ID>558</ID> <Nome>GAZPROM ARENA</Nome> <Capacidade>63026</Capacidade></Row>
+<Row><ID>520</ID> <Nome>ESTÁDIO DA LUZ</Nome> <Capacidade>64642</Capacidade></Row>
+<Row><ID>2259</ID> <Nome>MILLENNIUM STADIUM</Nome> <Capacidade>65842</Capacidade></Row>
+<Row><ID>662</ID> <Nome>ORANGE VÉLODROME</Nome> <Capacidade>67394</Capacidade></Row>
+<Row><ID>472</ID> <Nome>CIVITAS METROPOLITANO</Nome> <Capacidade>67829</Capacidade></Row>
+<Row><ID>1906</ID> <Nome>NISSAN STADIUM</Nome> <Capacidade>68742</Capacidade></Row>
+<Row><ID>1696</ID> <Nome>KING FAHD INTERNATIONAL STADIUM</Nome> <Capacidade>68752</Capacidade></Row>
+<Row><ID>648</ID> <Nome>NSK OLIMPISKY</Nome> <Capacidade>70050</Capacidade></Row>
+<Row><ID>658</ID> <Nome>OLIMPICO DI ROMA</Nome> <Capacidade>73261</Capacidade></Row>
+<Row><ID>659</ID> <Nome>OLYMPIASTADION BERLIN</Nome> <Capacidade>74667</Capacidade></Row>
+<Row><ID>439</ID> <Nome>ATATÜRK OLIMPIYAT</Nome> <Capacidade>74753</Capacidade></Row>
+<Row><ID>656</ID> <Nome>OLD TRAFFORD</Nome> <Capacidade>74879</Capacidade></Row>
+<Row><ID>2003</ID> <Nome>STADE DE FRANCE</Nome> <Capacidade>75000</Capacidade></Row>
+<Row><ID>426</ID> <Nome>ALLIANZ ARENA</Nome> <Capacidade>75024</Capacidade></Row>
+<Row><ID>569</ID> <Nome>GIUSEPPE MEAZZA</Nome> <Capacidade>75923</Capacidade></Row>
+<Row><ID>613</ID> <Nome>LUZHNIKI STADIUM</Nome> <Capacidade>81000</Capacidade></Row>
+<Row><ID>703</ID> <Nome>SANTIAGO BERNABÉU</Nome> <Capacidade>81044</Capacidade></Row>
+<Row><ID>707</ID> <Nome>SIGNAL IDUNA PARK</Nome> <Capacidade>81365</Capacidade></Row>
+<Row><ID>1037</ID> <Nome>WEMBLEY STADIUM</Nome> <Capacidade>89472</Capacidade></Row>
+<Row><ID>1647</ID> <Nome>SPOTIFY CAMP NOU</Nome> <Capacidade>99354</Capacidade></Row>
+</Rows>
