@@ -1,0 +1,13 @@
+2024/10/22 17:56:24 - Executar Transformação 2 - Using run configuration [Pentaho local]
+2024/10/22 17:56:24 - Transformation 2 - Expedindo in�cio para transforma��o [Transformation 2]
+2024/10/22 17:56:24 - XML output.0 - Opening output stream in encoding: UTF-8
+2024/10/22 17:56:24 - Table input - Estadios .0 - Finished reading query, closing connection
+2024/10/22 17:56:24 - Table input - Estadios .0 - Finished processing (I=393, O=0, R=0, W=393, U=0, E=0)
+2024/10/22 17:56:24 - String operations - Eliminar Espaços em Branco.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Replace in string - Remover esapaços internos.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Value mapper.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Select values.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Filter rows.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Replace in string.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - String operations.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - XML output.0 - Finished processing (I=0, O=393, R=393, W=393, U=0, E=0)

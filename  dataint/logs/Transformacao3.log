@@ -1,0 +1,13 @@
+2024/10/22 17:56:25 - Executar Transformação 3 - Using run configuration [Pentaho local]
+2024/10/22 17:56:25 - Transformation 3 - Expedindo in�cio para transforma��o [Transformation 3]
+2024/10/22 17:56:25 - Table input - Estadio.0 - Finished reading query, closing connection
+2024/10/22 17:56:25 - Table input - Estadio.0 - Finished processing (I=2280, O=0, R=0, W=2280, U=0, E=0)
+2024/10/22 17:56:25 - Table input - Jogos.0 - Finished reading query, closing connection
+2024/10/22 17:56:25 - Sort rows.0 - Finished processing (I=0, O=0, R=2280, W=2280, U=0, E=0)
+2024/10/22 17:56:25 - Table input - Jogos.0 - Finished processing (I=588, O=0, R=0, W=588, U=0, E=0)
+2024/10/22 17:56:25 - Sort rows 2.0 - Finished processing (I=0, O=0, R=588, W=588, U=0, E=0)
+2024/10/22 17:56:25 - Filter rows - Estadio.0 - Finished processing (I=0, O=0, R=2280, W=2280, U=0, E=0)
+2024/10/22 17:56:25 - Filter rows - Jogos.0 - Finished processing (I=0, O=0, R=588, W=588, U=0, E=0)
+2024/10/22 17:56:25 - Text file output - False Jogos.0 - Finished processing (I=0, O=588, R=587, W=587, U=0, E=0)
+2024/10/22 17:56:26 - Merge join.0 - Finished processing (I=0, O=0, R=2281, W=2280, U=0, E=0)
+2024/10/22 17:56:26 - Text file output - Estadio Jogos.0 - Finished processing (I=0, O=2281, R=2280, W=2280, U=0, E=0)

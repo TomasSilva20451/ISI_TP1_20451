@@ -1,0 +1,8 @@
+2024/10/22 17:56:26 - Executar Transformação 4 - Using run configuration [Pentaho local]
+2024/10/22 17:56:26 - Transformation 4 - Expedindo in�cio para transforma��o [Transformation 4]
+2024/10/22 17:56:26 - Table input - Jogadores.0 - Finished reading query, closing connection
+2024/10/22 17:56:26 - Table input - Jogadores.0 - Finished processing (I=28622, O=0, R=0, W=28622, U=0, E=0)
+2024/10/22 17:56:26 - Filter rows.0 - Finished processing (I=0, O=0, R=28622, W=28622, U=0, E=0)
+2024/10/22 17:56:26 - Select values.0 - Finished processing (I=0, O=0, R=28580, W=28580, U=0, E=0)
+2024/10/22 17:56:26 - Text file output - Jogadores False.0 - Finished processing (I=0, O=44, R=42, W=42, U=0, E=0)
+2024/10/22 17:56:26 - Text file output - Jogadores True.0 - Finished processing (I=0, O=28582, R=28580, W=28580, U=0, E=0)

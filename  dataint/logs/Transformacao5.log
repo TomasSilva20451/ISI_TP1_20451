@@ -1,0 +1,8 @@
+2024/10/22 17:56:27 - Executar Transformação 5 - Using run configuration [Pentaho local]
+2024/10/22 17:56:27 - Transformation 5 - Expedindo in�cio para transforma��o [Transformation 5]
+2024/10/22 17:56:27 - Table Input - Jogos.0 - linenr 50000
+2024/10/22 17:56:27 - Select values.0 - linenr 50000
+2024/10/22 17:56:27 - Table Input - Jogos.0 - Finished reading query, closing connection
+2024/10/22 17:56:27 - Table Input - Jogos.0 - Finished processing (I=51499, O=0, R=0, W=51499, U=0, E=0)
+2024/10/22 17:56:27 - Select values.0 - Finished processing (I=0, O=0, R=51499, W=51499, U=0, E=0)
+2024/10/22 17:56:28 - JSON Output - Jogos.0 - Finished processing (I=0, O=51499, R=51499, W=51499, U=0, E=0)

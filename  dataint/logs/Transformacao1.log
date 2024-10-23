@@ -1,0 +1,11 @@
+2024/10/22 17:56:23 - Executar Transformação 1 - Using run configuration [Pentaho local]
+2024/10/22 17:56:23 - Transformation 1 - Expedindo in�cio para transforma��o [Transformation 1]
+2024/10/22 17:56:23 - Table input - Paises.0 - Finished reading query, closing connection
+2024/10/22 17:56:23 - Table input - Estadios.0 - Finished reading query, closing connection
+2024/10/22 17:56:23 - Table input - Paises.0 - Finished processing (I=180, O=0, R=0, W=180, U=0, E=0)
+2024/10/22 17:56:23 - Table input - Estadios.0 - Finished processing (I=393, O=0, R=0, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Select values.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Merge join.0 - Finished processing (I=0, O=0, R=573, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Calculator.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Replace in string - Remover numeros no nome estadio /d.0 - Finished processing (I=0, O=0, R=393, W=393, U=0, E=0)
+2024/10/22 17:56:24 - Text file output - Remover numeros em nomes.0 - Finished processing (I=0, O=394, R=393, W=393, U=0, E=0)
